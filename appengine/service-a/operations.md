@@ -1,4 +1,5 @@
-gcloud app deploy
+$ gcloud app deploy
+```
 Services to deploy:
 
 descriptor:                  [/Users/jpuyy/git/gcp-infrastructure/appengine/service-a/app.yaml]
@@ -26,3 +27,4 @@ You can stream logs from the command line by running:
 
 To view your application in the web browser run:
   $ gcloud app browse
+```
