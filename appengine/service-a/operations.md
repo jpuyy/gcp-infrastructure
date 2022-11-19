@@ -28,3 +28,7 @@ You can stream logs from the command line by running:
 To view your application in the web browser run:
   $ gcloud app browse
 ```
+
+$ gcloud app deploy --version=v1-1-1
+
+$ gcloud app versions list
